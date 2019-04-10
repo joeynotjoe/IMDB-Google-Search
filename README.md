@@ -1,5 +1,5 @@
 # IMDB-Google-Search
-An Alfred workflow to search IMDB using a Google Search Suggestion backbone.
+An [Alfred](https://alfredapp.com) workflow to search IMDB using a Google Search Suggestion backbone.
 
 Based off of [Google Alfred 3 Workflow](http://www.packal.org/workflow/google-alfred3-workflow)
 
@@ -15,3 +15,5 @@ CHANGELOG
 --
 v0.0.01 | 04.09.2019
 • Initial Release
+
+![Screenshot](https://i.imgur.com/dzRiFnE.png)
